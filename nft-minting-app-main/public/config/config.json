@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x9D692A3A3BEC01235A74a2e17651161C05981cDe",
+  "SCAN_LINK": "https://polygonscan.com/token/0x9D692A3A3BEC01235A74a2e17651161C05981cDe",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "Graffiti Apes TEST NFT",
+  "SYMBOL": "GPAPTEST",
+  "MAX_SUPPLY": 992,
+  "WEI_COST": 10000000000000000,
+  "DISPLAY_COST": 0.01,
+  "GAS_LIMIT": 3000000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/testltlt",
+  "SHOW_BACKGROUND": true
+}
